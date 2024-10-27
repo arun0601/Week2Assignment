@@ -1,0 +1,1 @@
+You created a set of functions to give a BODE score. There were some errors, but then you overwrote the functions in the last block with some dummy functions.
